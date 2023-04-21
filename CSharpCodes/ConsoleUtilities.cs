@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Threading;
 
-namespace CSharCodes
+namespace CSharpCodes
 {
     public class ConsoleUtilities
     {
-        public void LoadingScreen()
+        public static void LoadingScreen()
         {
             Console.Write("Loading");
 

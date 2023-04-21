@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharCodes
+namespace CSharpCodes
 {
     public class StopWatch
     {

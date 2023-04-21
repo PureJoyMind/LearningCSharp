@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices;
-using System.Runtime.Remoting.Messaging;
 using System.Text;
 
-namespace CSharCodes
+namespace CSharpCodes
 {
     public class Order
     {

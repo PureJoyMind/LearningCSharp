@@ -1,8 +1,8 @@
-﻿using System.Text;
+﻿
 
 //using System.Text;
 
-namespace CSharCodes
+namespace CSharpCodes
 {
     internal class Program
     {
