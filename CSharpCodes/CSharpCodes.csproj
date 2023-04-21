@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0816E9E6-1365-4576-873D-CE1A0ED5202F}</ProjectGuid>
+    <ProjectGuid>{D88AE983-ED9D-4C31-B12A-84CA6A4A4B96}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Mosh</RootNamespace>
-    <AssemblyName>Mosh</AssemblyName>
+    <RootNamespace>CSharpCodes</RootNamespace>
+    <AssemblyName>CSharpCodes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Mosh")]
+[assembly: AssemblyTitle("CSharpCodes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Mosh")]
+[assembly: AssemblyProduct("CSharpCodes")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0816e9e6-1365-4576-873d-ce1a0ed5202f")]
+[assembly: Guid("d88ae983-ed9d-4c31-b12a-84ca6a4a4b96")]
 
 // Version information for an assembly consists of the following four values:
 //

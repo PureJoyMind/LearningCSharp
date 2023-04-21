@@ -9,7 +9,7 @@ namespace CSharCodes
         {
             Console.Write("Loading");
 
-            int dotCount = 0;
+            var dotCount = 0;
             const byte timeinterval = 250;
             while (true)
             {
