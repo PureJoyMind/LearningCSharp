@@ -10,7 +10,7 @@ namespace CSharpCodes
             Console.Write("Loading");
 
             var dotCount = 0;
-            const byte timeinterval = 250;
+            const int timeinterval = 500;
             while (true)
             {
                 // Add a dot and print the message

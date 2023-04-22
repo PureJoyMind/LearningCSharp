@@ -45,8 +45,7 @@
   <ItemGroup>
     <Compile Include="codes.cs" />
     <Compile Include="ConsoleUtilities.cs" />
-    <Compile Include="Customer.cs" />
-    <Compile Include="Order.cs" />
+    <Compile Include="FastType.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
