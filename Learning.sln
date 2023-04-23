@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCodes", "CSharpCodes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbHandling", "DbHandling\DbHandling.csproj", "{60616F02-6762-4766-A59F-29C60F552F4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbMigration", "DbMigration\DbMigration.csproj", "{E256FEA0-1F84-49DA-8001-73A3FA572DD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{60616F02-6762-4766-A59F-29C60F552F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60616F02-6762-4766-A59F-29C60F552F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60616F02-6762-4766-A59F-29C60F552F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E256FEA0-1F84-49DA-8001-73A3FA572DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E256FEA0-1F84-49DA-8001-73A3FA572DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E256FEA0-1F84-49DA-8001-73A3FA572DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E256FEA0-1F84-49DA-8001-73A3FA572DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
