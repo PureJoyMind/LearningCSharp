@@ -46,6 +46,9 @@
     <Compile Include="codes.cs" />
     <Compile Include="ConsoleUtilities.cs" />
     <Compile Include="FastType.cs" />
+    <Compile Include="Photo.cs" />
+    <Compile Include="PhotoFilters.cs" />
+    <Compile Include="PhotoProcessor.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
